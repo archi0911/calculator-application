@@ -19,15 +19,6 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - CSS
 - JavaScript
 
-## 📂 Project Structure
-
-calculator-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 ## 🚀 How to Run
 
 1. Clone the repository:
